@@ -86,7 +86,7 @@
 
 <div align="center">
       <a href="https://www.codewars.com/users/pavelMoroziuk">
-        <img src="coding.gif" />
+        <img src="firecoding.gif" />
      </a>
 </div>
 <div align="center">
