@@ -80,6 +80,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-plain.svg"
          title="WebStorm" alt="WebStorm"
          width="40" height="40"/></a>&nbsp;
+     <a href="https://www.postman.com/">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+         title="Postman" alt="Postman"
+         width="40" height="40"/></a>&nbsp;
 </div>
 
 <br/>
