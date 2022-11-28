@@ -13,7 +13,7 @@
              width="60%"/>
     </a>
 </div>
-<div align="center">
+<!-- <div align="center">
     <a href="https://github.com/b00017469?tab=repositories">
         <img src="https://github-readme-stats.vercel.app/api?username=b00017469&show_icons=true&count_private=true&hide_border=true&title_color=494&text_color=888&icon_color=494&bg_color=0000"
              title="b00017469 github repositories" 
@@ -26,7 +26,7 @@
              alt="b00017469 github stats"
              width="41%"/>
     </a>
-</div>
+</div> -->
 <!-- ./STATS  -->
 
 <br/>
